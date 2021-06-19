@@ -2,7 +2,7 @@ Antidote is an enhanced dark theme designed to improve the overall coding experi
 
 ### Feature Request/Issue
 
-Please [open an issue](https://github.com/philecker/antidote/issues), if you have a feature request, or found a bug to report. If you are unhappy with the theme please reach out to me first, before submitting a negative review!
+Please [open an issue](https://github.com/philecker/antidote/issues), if you have a feature request, or found a bug to report.
 
 ![Antidote Preview](images/Antidote_ThemePreview.png)
 
