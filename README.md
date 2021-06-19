@@ -4,7 +4,7 @@ Antidote is an enhanced dark theme designed to improve the overall coding experi
 
 Please [open an issue](https://github.com/philecker/antidote/issues), if you have a feature request, or found a bug to report.
 
-![Antidote Preview](images/Antidote_ThemePreview.png)
+![Antidote Preview](images/Antidote_ThemePreview.PNG)
 
 ### Supported Languages
 
