@@ -1,9 +1,9 @@
 {
     "name": "antidote",
     "publisher": "philecker",
-    "displayName": "antidote",
+    "displayName": "Antidote",
     "description": "Enhanced Dark Theme for Visual Studio Code.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository": {
       "type": "git",
       "url": "https://github.com/philecker/antidote"
