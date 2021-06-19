@@ -1,0 +1,37 @@
+{
+    "name": "antidote",
+    "displayName": "antidote",
+    "description": "Enhanced Dark Theme for Visual Studio Code.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+      "color-theme",
+      "theme",
+      "vivid",
+      "bold",
+      "dark",
+      "html",
+      "css",
+      "sass",
+      "scss",
+      "less",
+      "csharp",
+      "dockerfile",
+      "javascript",
+      "jsx"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Antidote",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Antidote-color-theme.json"
+            }
+        ]
+    }
+}
