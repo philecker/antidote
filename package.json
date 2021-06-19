@@ -3,11 +3,12 @@
     "publisher": "philecker",
     "displayName": "antidote",
     "description": "Enhanced Dark Theme for Visual Studio Code.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
       "type": "git",
       "url": "https://github.com/philecker/antidote"
     },
+    "icon": "images/Antidote_ExtensionImage.png",
     "engines": {
         "vscode": "^1.57.0"
     },
