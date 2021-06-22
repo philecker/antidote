@@ -192,7 +192,8 @@
         "markup.fenced_code.block",
         "keyword.operator.assignment",
         "punctuation.separator",
-        "meta.link.inline.markdown"
+        "meta.link.inline.markdown",
+        "variable.language.this"
       ],
       "settings": {
         "foreground": "#be6f57"
@@ -248,8 +249,7 @@
         "keyword.control.at-rule.mixin.scss",
         "keyword.control.at-rule.include.scss",
         "support.constant.handlebars",
-        "storage.modifier",
-        "variable.language.this"
+        "storage.modifier"
       ],
       "settings": {
         "foreground": "#65b47f"

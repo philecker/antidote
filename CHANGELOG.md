@@ -2,6 +2,9 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.1.1] (06/21/2021)
+- Updated Syntax Color Scheme
+
 #### [1.1.0] (06/21/2021)
 - Updated Syntax Color Scheme
 
