@@ -131,13 +131,10 @@
     {
       "scope": [
         "entity.other.attribute-name",
-        "keyword.operator.assignment",
-        "punctuation.separator",
-        "meta.tag.attributes",
-        "meta.link.inline.markdown"
+        "meta.tag.attributes"
       ],
       "settings": {
-        "foreground": "#b38eb9"
+        "foreground": "#b48abb"
       }
     },
     {
@@ -192,7 +189,10 @@
         "keyword.operator.comparison",
         "keyword.operator.increment-decrement",
         "keyword.operator.relational",
-        "markup.fenced_code.block"
+        "markup.fenced_code.block",
+        "keyword.operator.assignment",
+        "punctuation.separator",
+        "meta.link.inline.markdown"
       ],
       "settings": {
         "foreground": "#be6f57"
@@ -209,7 +209,7 @@
         "keyword.other.set"
       ],
       "settings": {
-        "foreground": "#a88fd1"
+        "foreground": "#ac82f5"
       }
     },
     {
@@ -224,7 +224,7 @@
         "meta.method-call"
       ],
       "settings": {
-        "foreground": "#d6c38a"
+        "foreground": "#ddb977"
       }
     },
     {

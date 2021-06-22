@@ -6,6 +6,30 @@ Please [open an issue](https://github.com/philecker/antidote/issues), if you hav
 
 ![Antidote Preview](images/Antidote_ThemePreview.PNG)
 
+### Recommended
+#### Extensions
+[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+    "bracket-pair-colorizer-2.colors":  [
+    	"#ddb977",  // Yellow/Gold
+    	"#7791c3",  // Blue
+    	"#a88fd1"  // Purple
+    ],
+    "bracket-pair-colorizer-2.colorMode":  "Consecutive",
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "bracket-pair-colorizer-2.activeScopeCSS":  [
+    	"borderStyle : solid",
+    	"borderWidth : 1px",
+    	"borderColor : {color}",
+    	"opacity: 0.5"
+    ]
+#### Font
+
+[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
+    "editor.fontFamily":  "JetBrains Mono Thin",
+    "editor.fontLigatures": true
+
 ### Supported Languages
 
 * HTML
