@@ -2,6 +2,13 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.2.0] (06/25/2021)
+- UI enhancements to panel and editor
+- Update preview image
+
+#### [1.1.2] (06/22/2021)
+- Minor improvements
+
 #### [1.1.1] (06/21/2021)
 - Updated Syntax Color Scheme
 
