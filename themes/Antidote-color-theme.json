@@ -29,7 +29,7 @@
     "list.activeSelectionBackground": "#1f1f1f",
     "list.focusOutline": "#252526",
     "panel.border": "#343434",
-    "panel.background": "#1C1C1C",
+    "panel.background": "#222222",
     "panelSectionHeader.background": "#5f5f5f",
     "panelSectionHeader.foreground": "#cccccc",
     "panelTitle.inactiveForeground": "#999999",
@@ -258,3 +258,4 @@
     }
   ]
 }
+

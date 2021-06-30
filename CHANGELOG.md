@@ -1,6 +1,8 @@
 # Change Log
 
 All notable changes to the "antidote" extension will be documented in this file.
+#### [1.2.2] (06/29/2021)
+- Minor UI update to panel
 
 #### [1.2.1] (06/27/2021)
 - Added badges to README.md
