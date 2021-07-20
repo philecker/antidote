@@ -40,6 +40,7 @@
     "sideBarSectionHeader.background": "#2d2d2d",
     "statusBar.background": "#2d2d2d",
     "statusBar.noFolderBackground": "#4C4C4C",
+    "statusBar.debuggingBackground": "#5af78e"
     "statusBarItem.prominentBackground": "#159c93",
     "statusBar.border": "#343434",
     "tab.activeBorderTop": "#5af78e",
@@ -68,8 +69,7 @@
     {
       "scope": [
         "entity.name.function",
-        "meta.object-literal.key",
-        "constant.language.boolean"
+        "meta.object-literal.key"
       ],
       "settings": {
         "fontStyle": "bold"
@@ -110,7 +110,8 @@
     },
     {
       "scope": [
-        "storage.modifier"
+        "storage.modifier",
+        "constant.language.boolean"
       ],
       "settings": {
         "fontStyle": "italic bold"
@@ -250,7 +251,8 @@
         "keyword.control.at-rule.mixin.scss",
         "keyword.control.at-rule.include.scss",
         "support.constant.handlebars",
-        "storage.modifier"
+        "storage.modifier",
+        "constant.language.boolean"
       ],
       "settings": {
         "foreground": "#65b47f"
