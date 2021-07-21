@@ -1,3 +1,5 @@
+
+
 {
   "name": "Antidote",
   "type": "dark",
@@ -40,8 +42,7 @@
     "sideBarSectionHeader.background": "#2d2d2d",
     "statusBar.background": "#2d2d2d",
     "statusBar.noFolderBackground": "#4C4C4C",
-    "statusBar.debuggingBackground": "#5af78e"
-    "statusBarItem.prominentBackground": "#159c93",
+    "statusBar.debuggingBackground": "#6d47af",
     "statusBar.border": "#343434",
     "tab.activeBorderTop": "#5af78e",
     "terminal.background":"#1C1C1C",
@@ -260,4 +261,3 @@
     }
   ]
 }
-

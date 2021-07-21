@@ -2,6 +2,9 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.2.4] (07/21/2021)
+- Fixed debugging statusbar color
+
 #### [1.2.3] (07/20/2021)
 - Updated boolean color and style
 - Updated debugging statusbar background color
