@@ -2,6 +2,10 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+
+#### [1.2.5] (07/26/2021)
+- Changed list active selection
+
 #### [1.2.4] (07/21/2021)
 - Fixed debugging statusbar color
 
