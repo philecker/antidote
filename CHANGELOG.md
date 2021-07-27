@@ -2,6 +2,8 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.3.0] (07/26/2021)
+- Fixed an issue with versioning
 
 #### [1.2.5] (07/26/2021)
 - Changed list active selection
