@@ -2,6 +2,10 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.4.0] (08/12/2021)
+- Minor improvements to editor search highlighting
+- Added comments for maintabilty
+
 #### [1.3.0] (07/26/2021)
 - Fixed an issue with versioning
 
