@@ -1,18 +1,18 @@
-Antidote is an enhanced dark theme designed to improve the overall coding experience.
+Antidote is an enhanced dark theme designed to improve the overall coding experience. It's currently geared more towards frontend developement, but will be reguarly updated to supprot more backend languages.
 
 ![Github License](https://flat.badgen.net/github/license/philecker/antidote/)
 ![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/antidote/main/)
 ![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.antidote)
 
-<br /><br />
-### Feature Request/Issue
-
-Please [open an issue](https://github.com/philecker/antidote/issues), if you have a feature request, or found a bug to report.
+<br />
 
 ![Antidote Preview](images/Antidote_ThemePreview.PNG)
 
-### Recommended
+### Contributing
 
+See something strange or have a request? Please [open an issue](https://github.com/philecker/antidote/issues).
+
+### Recommended
 #### Font
 
 [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
