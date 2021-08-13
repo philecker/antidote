@@ -2,6 +2,9 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.4.2] (08/13/2021)
+- Removed selection border on inactive matches
+
 #### [1.4.1] (08/12/2021)
 - Updated project README.md
 - Updated preview image

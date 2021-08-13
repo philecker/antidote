@@ -4,8 +4,6 @@ Antidote is an enhanced dark theme designed to improve the overall coding experi
 ![GitHub Last Commit](https://flat.badgen.net/github/last-commit/philecker/antidote/main/)
 ![VS Marketplace Version](https://flat.badgen.net/vs-marketplace/v/philecker.antidote)
 
-<br />
-
 ![Antidote Preview](images/Antidote_ThemePreview.PNG)
 
 ### Contributing

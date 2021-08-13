@@ -16,7 +16,6 @@
     "editorError.foreground": "#da6a48",
     "editorBracketMatch.border": "#343434", // border color of matching bracket
     "editorBracketMatch.background": "#343434", // background color of matching bracket
-    "editor.selectionHighlightBorder": "#6d47af",
     "editor.wordHighlightBackground": "#082630", // background color of elements
     "editor.findMatchBackground": "#0e4456", // background color of current match
     "editor.findMatchBorder": "#0e4456", // border color of current match
