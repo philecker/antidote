@@ -2,6 +2,9 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [1.4.3] (08/19/2021)
+- Fixed bug with punctuation.section.embedded.end not matching begin
+
 #### [1.4.2] (08/13/2021)
 - Removed selection border on inactive matches
 

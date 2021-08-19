@@ -216,8 +216,8 @@
     {
       "scope": [
         "punctuation.definition.block",
+        "punctuation.section.embedded.end",
         "punctuation.section.embedded.begin",
-        "punctuation.section.embedded.begin.js",
         "support.variable.property",
         "variable.other.readwrite",
         "variable.other.constant",
