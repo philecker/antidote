@@ -2,6 +2,9 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [2.0.1] (08/22/2022)
+- Making improvements to editor styling and tweaks to overall colors used
+
 #### [2.0.0] (08/22/2022)
 - Making improvements to editor styling and tweaks to overall colors used
 

@@ -25,7 +25,7 @@
     "input.foreground": "#CCCCCC",
     "input.placeholderForeground": "#CCCCCC",
     "list.inactiveSelectionBackground": "#1f1f1f",
-    "list.activeSelectionBackground": "#315cab",
+    "list.activeSelectionBackground": "#5c3999",
     "list.focusOutline": "#252526",
     "panel.border": "#343434",
     "panel.background": "#3a3636",
