@@ -2,6 +2,12 @@
 
 All notable changes to the "antidote" extension will be documented in this file.
 
+#### [2.0.0] (08/22/2022)
+- Making improvements to editor styling and tweaks to overall colors used
+
+#### [1.4.4] (04/08/2022)
+- Making improvements to editor styling
+
 #### [1.4.3] (08/19/2021)
 - Fixed bug with punctuation.section.embedded.end not matching begin
 
